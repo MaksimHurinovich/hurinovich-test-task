@@ -11,4 +11,7 @@ public class TestClass {
     public float calculateDiff(float a, float b){
         return b-a;
     }
+    public float calculateMult(float a, float b){
+        return a*b;
+    }
 }
