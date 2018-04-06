@@ -9,7 +9,7 @@ public class TestClass {
         return a+b;
     }
 
-    public  float calculateDiff(float a, float b){
+    public float calculateDiff(float a, float b){
         return b-a;
     }
 
