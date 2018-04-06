@@ -8,7 +8,6 @@ public class TestClass {
     public float calculateSum(float a, float b){
         return a+b;
     }
-
     public float calculateDiff(float a, float b){
         return b-a;
     }
